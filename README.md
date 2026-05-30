@@ -1,47 +1,100 @@
 # Hi, I'm Swastik Mandal 👋
 
-I am an aspiring **Web Developer** and **AI Engineer** focused on building intelligent, user-centric web applications. Currently, I am mastering the fundamentals of full-stack architecture while exploring the integration of AI models and data workflows into modern web ecosystems.
+### Student • Developer • Builder
+
+I'm a student passionate about technology, programming, and building useful software. Currently, I'm focused on strengthening my skills in Python, Web Development, and Artificial Intelligence while creating projects that help me learn real-world software engineering practices.
 
 ---
 
-### 🚀 Focus Areas & Learning Roadmap
+## 🚀 Current Learning Journey
 
-- 🌐 **Web Development:** Deep-diving into responsive frontend design and robust backend/database management.
-- 🤖 **AI Engineering:** Learning the foundations of machine learning, prompt engineering, and integrating AI APIs into web apps.
-- ⚙️ **DevOps & Automation:** Familiarizing myself with continuous integration, deployment pipelines, and cloud hosting platforms.
+### 🌐 Web Development
 
----
+* HTML, CSS, JavaScript
+* React & Next.js
+* Backend fundamentals with Node.js
+* Working with databases and APIs
 
-### 🛠️ Tech Stack & Tools
+### 🤖 Artificial Intelligence
 
-| Domain | Technologies & Platforms |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js |
-| **Backend & Databases** | Node.js, Express, PostgreSQL, Supabase, Firebase |
-| **DevOps & Cloud** | Git, GitHub Actions, Codemagic, Vercel, Netlify, Hostinger |
-| **E-Commerce & Tools** | Shopify API, Content Management Systems |
+* Python for AI development
+* Prompt engineering
+* AI API integration
+* Machine learning fundamentals
 
----
+### ⚙️ Software Engineering
 
-### 📁 Featured Repositories
-
-*Check out some of my active development and learning spaces:*
-
-* 🛠️ **[Explore My Repositories](https://github.com/sw4tk?tab=repositories)** – A look into my scripts, web experiments, and ongoing projects.
-* 📈 **Continuous Learning** – I regularly push updates as I experiment with new backend configurations and UI components.
+* Git & GitHub
+* Command-line tools
+* Automation scripts
+* Project architecture and documentation
 
 ---
 
-### 📊 GitHub Insights
+## 🛠️ Technologies I'm Learning
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sw4tk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Swastik's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sw4tk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160" />
-</p>
+**Languages**
+
+* Python
+* JavaScript
+* TypeScript
+
+**Frontend**
+
+* HTML5
+* CSS3
+* React
+* Next.js
+
+**Backend**
+
+* Node.js
+* Express.js
+
+**Databases**
+
+* PostgreSQL
+* Supabase
+* Firebase
+
+**Tools**
+
+* Git
+* GitHub
+* Vercel
+* Netlify
 
 ---
 
-### 🤝 Connect with Me
+## 📂 Projects
 
-- 💼 **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) <!-- Paste your actual LinkedIn link here -->
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+I use GitHub as a public learning journal where I build projects, experiment with ideas, and document my progress as a developer.
+
+🔗 Explore my repositories:
+https://github.com/sw4tk?tab=repositories
+
+Current interests include:
+
+* Developer tools
+* Automation scripts
+* Web applications
+* AI-powered projects
+* Open-source contributions
+
+---
+
+## 📈 Goals for 2026
+
+* Build and deploy multiple full-stack applications
+* Create AI-powered web projects
+* Contribute to open source
+* Learn software architecture fundamentals
+* Develop products that solve real problems
+
+---
+
+## 🤝 Connect With Me
+
+GitHub: https://github.com/sw4tk
+
+Always learning, building, and improving one project at a time.
